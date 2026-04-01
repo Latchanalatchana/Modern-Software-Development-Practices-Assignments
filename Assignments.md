@@ -9,8 +9,7 @@
 > Personal Portfolio Project
 [https://github.com/Latchanalatchana/Modern_s-w_devPractice]
 [https://modern-s-w-dev-practice.vercel.app/]
-[https://github.com/Latchanalatchana/Modern_s-w_devPractice/blob/v1/DOCS.md]
-
+[https://latchanalatchana.github.io/Modern_s-w_devPractice/]
 # 3 Team Project: AI Full Stack Application
 > Team Project: AI Full Stack Application
 [https://github.com/ArshiyaNasirin/Onecredit-Fullstack]
